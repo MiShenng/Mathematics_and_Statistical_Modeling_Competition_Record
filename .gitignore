@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+process/outputs/
+temp/
+
+# Local agent/session files
+.claude/
+.Rhistory
+
+# Local references and old draft PDFs outside the minimal deliverable
+referencework/
+tex/4.49_final.pdf
+tex/8.28.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.synctex(busy)
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.lof
+*.lot
+*.idx
+*.ilg
+*.ind
+*.glg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.ist
+*.synctex
+*.listing
+*.lol
+_minted-*/

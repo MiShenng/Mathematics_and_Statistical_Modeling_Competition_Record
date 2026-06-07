@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1480" viewBox="0 0 1120 1480">
+<defs>
+  <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.12"/>
+  </filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<rect x="410.00" y="59.00" width="300.00" height="54.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="92.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="18" font-weight="400" fill="#111111" text-anchor="middle" >研究开始</text>
+<rect x="350.00" y="140.00" width="420.00" height="76.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="161.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >数据读取与变量构建</text>
+<text x="560.00" y="183.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >A/B/C已知样本  D1-D10未知样本</text>
+<text x="560.00" y="205.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >检测位置 X1-X155</text>
+<rect x="350.00" y="253.00" width="420.00" height="78.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="275.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >数据预处理</text>
+<text x="560.00" y="297.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >缺失检查  列一致性  异常值初筛</text>
+<text x="560.00" y="319.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >训练折 Z-score 标准化</text>
+<polygon points="560.00,372.00 710.00,418.00 560.00,464.00 410.00,418.00" fill="#FFFFFF" opacity="1" stroke="#111111" stroke-width="1.4"/>
+<text x="560.00" y="411.17" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="17" font-weight="400" fill="#111111" text-anchor="middle" >数据质量</text>
+<text x="560.00" y="436.17" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="17" font-weight="400" fill="#111111" text-anchor="middle" >是否合格？</text>
+<rect x="123.00" y="385.00" width="250.00" height="66.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="248.00" y="411.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >修正数据问题</text>
+<text x="248.00" y="434.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >保留有效样本集</text>
+<polyline points="560.00,113.00 560.00,140.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,140.00 555.50,131.00 564.50,131.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,216.00 560.00,253.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,253.00 555.50,244.00 564.50,244.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,331.00 560.00,372.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,372.00 555.50,363.00 564.50,363.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="410.00,418.00 373.00,418.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="373.00,418.00 382.00,413.50 382.00,422.50" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<text x="392.00" y="404.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle" >否</text>
+<polyline points="248.00,451.00 248.00,495.00 560.00,495.00 560.00,526.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,526.00 555.50,517.00 564.50,517.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,464.00 560.00,526.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,526.00 555.50,517.00 564.50,517.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<text x="588.00" y="501.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle" >是</text>
+<rect x="350.00" y="525.00" width="420.00" height="82.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="549.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >特征分析</text>
+<text x="560.00" y="571.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >均值曲线  样本内标准差  ANOVA</text>
+<text x="560.00" y="593.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >PCA解释率与类中心分离</text>
+<rect x="350.00" y="647.00" width="420.00" height="76.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="668.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >关键判别依据形成</text>
+<text x="560.00" y="690.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >A/B样本内SD阈值  重要检测位置</text>
+<text x="560.00" y="712.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >PC1形态差异与先验选择</text>
+<polygon points="560.00,772.00 710.00,818.00 560.00,864.00 410.00,818.00" fill="#FFFFFF" opacity="1" stroke="#111111" stroke-width="1.4"/>
+<text x="560.00" y="811.17" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="17" font-weight="400" fill="#111111" text-anchor="middle" >后续分析目标</text>
+<text x="560.00" y="836.17" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="17" font-weight="400" fill="#111111" text-anchor="middle" >解释机制 / 预测分类</text>
+<polyline points="560.00,607.00 560.00,647.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,647.00 555.50,638.00 564.50,638.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,723.00 560.00,772.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,772.00 555.50,763.00 564.50,763.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<rect x="328.00" y="832.00" width="128.00" height="26.00" fill="#FFFFFF" stroke="none" stroke-width="0" rx="0" opacity="1" />
+<text x="392.00" y="852.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >解释与稳健性</text>
+<rect x="664.00" y="832.00" width="128.00" height="26.00" fill="#FFFFFF" stroke="none" stroke-width="0" rx="0" opacity="1" />
+<text x="728.00" y="852.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >预测建模</text>
+<polyline points="410.00,818.00 280.00,818.00 280.00,864.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="280.00,864.00 275.50,855.00 284.50,855.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="710.00,818.00 840.00,818.00 840.00,864.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="840.00,864.00 835.50,855.00 844.50,855.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<rect x="125.00" y="864.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="280.00" y="893.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >基准模型诊断</text>
+<text x="280.00" y="916.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >最近质心  NB  LDA</text>
+<rect x="125.00" y="968.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="280.00" y="997.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >QDA合理性检验</text>
+<text x="280.00" y="1020.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >A/B重叠  方差差异  逐折指标</text>
+<rect x="125.00" y="1072.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="280.00" y="1101.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >敏感性分析</text>
+<text x="280.00" y="1124.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >先验概率  正则化参数  PCA维数</text>
+<rect x="685.00" y="864.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="840.00" y="893.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >主分类器构建</text>
+<text x="840.00" y="916.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >正则化QDA  经验先验</text>
+<rect x="685.00" y="968.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="840.00" y="997.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >低维复核模型</text>
+<text x="840.00" y="1020.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >PCA-QDA 与维数扫描</text>
+<rect x="685.00" y="1072.00" width="310.00" height="72.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="840.00" y="1101.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >一致性判定</text>
+<text x="840.00" y="1124.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >5模型投票  少于4/5触发复检</text>
+<polyline points="280.00,936.00 280.00,968.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="280.00,968.00 275.50,959.00 284.50,959.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="280.00,1040.00 280.00,1072.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="280.00,1072.00 275.50,1063.00 284.50,1063.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="840.00,936.00 840.00,968.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="840.00,968.00 835.50,959.00 844.50,959.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="840.00,1040.00 840.00,1072.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="840.00,1072.00 835.50,1063.00 844.50,1063.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<rect x="350.00" y="1159.00" width="420.00" height="78.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="1181.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >模型评价与集成复核</text>
+<text x="560.00" y="1203.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >Accuracy  BA  F1  混淆矩阵</text>
+<text x="560.00" y="1225.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >逐折交叉验证与一致性结果</text>
+<rect x="350.00" y="1287.00" width="420.00" height="76.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="1308.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >输出分类结果</text>
+<text x="560.00" y="1330.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >A：D1 D2 D3 D10</text>
+<text x="560.00" y="1352.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="16" font-weight="400" fill="#111111" text-anchor="middle" >B：D4 D5 D6  C：D7 D8 D9</text>
+<rect x="410.00" y="1403.00" width="300.00" height="54.00" fill="#FFFFFF" stroke="#111111" stroke-width="1.4" rx="6" opacity="1" />
+<text x="560.00" y="1435.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="17" font-weight="400" fill="#111111" text-anchor="middle" >研究结论与生产监控建议</text>
+<polyline points="280.00,1144.00 280.00,1152.00 500.00,1152.00 500.00,1159.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="500.00,1159.00 495.50,1150.00 504.50,1150.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="840.00,1144.00 840.00,1152.00 620.00,1152.00 620.00,1159.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="620.00,1159.00 615.50,1150.00 624.50,1150.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,1237.00 560.00,1287.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,1287.00 555.50,1278.00 564.50,1278.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+<polyline points="560.00,1363.00 560.00,1403.00" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polygon points="560.00,1403.00 555.50,1394.00 564.50,1394.00" fill="#111111" opacity="1" stroke="none" stroke-width="0"/>
+</svg>

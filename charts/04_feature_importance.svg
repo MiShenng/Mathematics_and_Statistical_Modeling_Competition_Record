@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="690" viewBox="0 0 1040 690">
+<defs>
+  <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.12"/>
+  </filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<g transform="translate(0,-70)">
+<rect x="188.00" y="110.00" width="780.00" height="520.00" fill="#FFFFFF" stroke="#D8DEE9" stroke-width="1" rx="8" opacity="1" />
+<line x1="188.00" y1="110.00" x2="188.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="188.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.50</text>
+<line x1="344.00" y1="110.00" x2="344.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="344.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.51</text>
+<line x1="500.00" y1="110.00" x2="500.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="500.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.52</text>
+<line x1="656.00" y1="110.00" x2="656.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="656.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.53</text>
+<line x1="812.00" y1="110.00" x2="812.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="812.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.54</text>
+<line x1="968.00" y1="110.00" x2="968.00" y2="630.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="968.00" y="652.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >0.55</text>
+<text x="174.00" y="132.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 1</text>
+<rect x="188.00" y="116.59" width="427.34" height="21.49" fill="#9ec5e5" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="623.34" y="132.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5274</text>
+<text x="174.00" y="167.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 95</text>
+<rect x="188.00" y="151.25" width="430.60" height="21.49" fill="#95bee2" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="626.60" y="167.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5276</text>
+<text x="174.00" y="201.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 19</text>
+<rect x="188.00" y="185.92" width="432.95" height="21.49" fill="#8db8df" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="628.95" y="201.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5278</text>
+<text x="174.00" y="236.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 135</text>
+<rect x="188.00" y="220.59" width="436.96" height="21.49" fill="#85b2dc" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="632.96" y="236.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5280</text>
+<text x="174.00" y="271.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 23</text>
+<rect x="188.00" y="255.25" width="437.90" height="21.49" fill="#7cacd9" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="633.90" y="271.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5281</text>
+<text x="174.00" y="305.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 89</text>
+<rect x="188.00" y="289.92" width="442.69" height="21.49" fill="#74a6d6" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="638.69" y="305.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5284</text>
+<text x="174.00" y="340.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 139</text>
+<rect x="188.00" y="324.59" width="480.88" height="21.49" fill="#6ca0d3" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="676.88" y="340.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5308</text>
+<text x="174.00" y="375.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 62</text>
+<rect x="188.00" y="359.25" width="484.36" height="21.49" fill="#649ad0" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="680.36" y="375.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5310</text>
+<text x="174.00" y="409.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 78</text>
+<rect x="188.00" y="393.92" width="485.45" height="21.49" fill="#5b93cd" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="681.45" y="409.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5311</text>
+<text x="174.00" y="444.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 125</text>
+<rect x="188.00" y="428.59" width="485.91" height="21.49" fill="#538dca" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="681.91" y="444.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5311</text>
+<text x="174.00" y="479.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 75</text>
+<rect x="188.00" y="463.25" width="491.57" height="21.49" fill="#4b87c7" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="687.57" y="479.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5315</text>
+<text x="174.00" y="513.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 108</text>
+<rect x="188.00" y="497.92" width="500.58" height="21.49" fill="#4281c4" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="696.58" y="513.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5321</text>
+<text x="174.00" y="548.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 88</text>
+<rect x="188.00" y="532.59" width="539.75" height="21.49" fill="#3a7bc1" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="735.75" y="548.33" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5346</text>
+<text x="174.00" y="583.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 138</text>
+<rect x="188.00" y="567.25" width="555.92" height="21.49" fill="#3275be" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="751.92" y="583.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5356</text>
+<text x="174.00" y="617.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="end" >位置 134</text>
+<rect x="188.00" y="601.92" width="665.83" height="21.49" fill="#2a6fbb" stroke="none" stroke-width="1" rx="5" opacity="0.95" />
+<text x="861.83" y="617.67" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#37474F" text-anchor="start" >0.5427</text>
+<text x="578.00" y="684.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="13" font-weight="400" fill="#37474F" text-anchor="middle" >eta²</text>
+<text x="848.00" y="92.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#60717F" text-anchor="start" >区分力越强 →</text>
+</g>
+</svg>

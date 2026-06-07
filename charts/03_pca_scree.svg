@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="650" viewBox="0 0 1080 650">
+<defs>
+  <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+    <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.12"/>
+  </filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<g transform="translate(0,-70)">
+<rect x="92.00" y="112.00" width="860.00" height="470.00" fill="#FFFFFF" stroke="#D8DEE9" stroke-width="1" rx="8" opacity="1" />
+<line x1="92.00" y1="582.00" x2="952.00" y2="582.00" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="586.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >0%</text>
+<line x1="92.00" y1="500.97" x2="952.00" y2="500.97" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="504.97" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >10%</text>
+<line x1="92.00" y1="419.93" x2="952.00" y2="419.93" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="423.93" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >20%</text>
+<line x1="92.00" y1="338.90" x2="952.00" y2="338.90" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="342.90" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >30%</text>
+<line x1="92.00" y1="257.86" x2="952.00" y2="257.86" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="261.86" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >40%</text>
+<line x1="92.00" y1="176.83" x2="952.00" y2="176.83" stroke="#E5E9F0" stroke-width="1" opacity="1"/>
+<text x="82.00" y="180.83" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="end" >50%</text>
+<line x1="117.54" y1="582.00" x2="117.54" y2="587.00" stroke="#60717F" stroke-width="1" opacity="1"/>
+<text x="117.54" y="604.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >PC1</text>
+<line x1="287.84" y1="582.00" x2="287.84" y2="587.00" stroke="#60717F" stroke-width="1" opacity="1"/>
+<text x="287.84" y="604.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >PC5</text>
+<line x1="500.71" y1="582.00" x2="500.71" y2="587.00" stroke="#60717F" stroke-width="1" opacity="1"/>
+<text x="500.71" y="604.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >PC10</text>
+<line x1="713.58" y1="582.00" x2="713.58" y2="587.00" stroke="#60717F" stroke-width="1" opacity="1"/>
+<text x="713.58" y="604.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >PC15</text>
+<line x1="926.46" y1="582.00" x2="926.46" y2="587.00" stroke="#60717F" stroke-width="1" opacity="1"/>
+<text x="926.46" y="604.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="middle" >PC20</text>
+<line x1="92.00" y1="582.00" x2="952.00" y2="582.00" stroke="#263238" stroke-width="1.2" opacity="1"/>
+<line x1="92.00" y1="112.00" x2="92.00" y2="582.00" stroke="#263238" stroke-width="1.2" opacity="1"/>
+<rect x="105.07" y="143.02" width="24.94" height="438.98" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="147.65" y="577.95" width="24.94" height="4.05" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="190.22" y="578.01" width="24.94" height="3.99" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="232.80" y="578.04" width="24.94" height="3.96" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="275.37" y="578.07" width="24.94" height="3.93" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="317.95" y="578.10" width="24.94" height="3.90" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="360.52" y="578.16" width="24.94" height="3.84" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="403.09" y="578.21" width="24.94" height="3.79" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="445.67" y="578.25" width="24.94" height="3.75" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="488.24" y="578.29" width="24.94" height="3.71" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="530.82" y="578.31" width="24.94" height="3.69" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="573.39" y="578.34" width="24.94" height="3.66" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="615.97" y="578.36" width="24.94" height="3.64" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="658.54" y="578.39" width="24.94" height="3.61" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="701.11" y="578.42" width="24.94" height="3.58" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="743.69" y="578.43" width="24.94" height="3.57" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="786.26" y="578.45" width="24.94" height="3.55" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="828.84" y="578.47" width="24.94" height="3.53" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="871.41" y="578.48" width="24.94" height="3.52" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<rect x="913.99" y="578.49" width="24.94" height="3.51" fill="#5A8CC8" stroke="none" stroke-width="1" rx="3" opacity="0.88" />
+<polyline points="117.54,218.28 160.12,214.92 202.69,211.62 245.27,208.34 287.84,205.08 330.42,201.85 372.99,198.67 415.56,195.53 458.14,192.42 500.71,189.34 543.29,186.29 585.86,183.25 628.44,180.24 671.01,177.24 713.58,174.27 756.16,171.32 798.73,168.38 841.31,165.45 883.88,162.53 926.46,159.62" fill="none" stroke="#D98C1F" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="117.54" cy="218.28" r="4.00" fill="#D98C1F" stroke="#FFFFFF" stroke-width="1.5" opacity="1"/>
+<circle cx="287.84" cy="205.08" r="4.00" fill="#D98C1F" stroke="#FFFFFF" stroke-width="1.5" opacity="1"/>
+<circle cx="500.71" cy="189.34" r="4.00" fill="#D98C1F" stroke="#FFFFFF" stroke-width="1.5" opacity="1"/>
+<circle cx="713.58" cy="174.27" r="4.00" fill="#D98C1F" stroke="#FFFFFF" stroke-width="1.5" opacity="1"/>
+<circle cx="926.46" cy="159.62" r="4.00" fill="#D98C1F" stroke="#FFFFFF" stroke-width="1.5" opacity="1"/>
+<line x1="952.00" y1="112.00" x2="952.00" y2="582.00" stroke="#263238" stroke-width="1.2" opacity="1"/>
+<text x="962.00" y="586.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="start" >0%</text>
+<text x="962.00" y="451.71" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="start" >20%</text>
+<text x="962.00" y="317.43" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="start" >40%</text>
+<text x="962.00" y="183.14" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="11" font-weight="400" fill="#60717F" text-anchor="start" >60%</text>
+<circle cx="682.00" cy="91.00" r="5.00" fill="#5A8CC8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="692.00" y="96.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="start" >单个解释率</text>
+<circle cx="800.00" cy="91.00" r="5.00" fill="#D98C1F" stroke="none" stroke-width="1" opacity="1"/>
+<text x="810.00" y="96.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="400" fill="#37474F" text-anchor="start" >累计解释率</text>
+<text x="522.00" y="638.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="13" font-weight="400" fill="#37474F" text-anchor="middle" >主成分</text>
+<text x="34.00" y="347.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="13" font-weight="400" fill="#37474F" text-anchor="middle" transform="rotate(-90 34,347.0)">单个解释率</text>
+<text x="1014.00" y="347.00" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="13" font-weight="400" fill="#37474F" text-anchor="middle" transform="rotate(90 1014,347.0)">累计解释率</text>
+<text x="117.54" y="133.02" font-family="'Times New Roman', 'Songti SC', 'STSong', 'SimSun', serif" font-size="12" font-weight="700" fill="#2A6FBB" text-anchor="middle" >54.17%</text>
+</g>
+</svg>

@@ -1,20 +1,18 @@
 # 2026 June Mathematical Modeling Competition
 
-本仓库整理 2026 年 6 月数学建模竞赛相关材料，包含赛题、建模分析代码、作图代码、LaTeX 源文件和最终 PDF。
+This repository contains the materials for the June 2026 Mathematical Modeling Competition, including the problem statement, analysis code, plotting code, LaTeX source files, and final PDF.
 
-## 目录结构
+## Structure
 
-- `2026年兰州大学数学建模竞赛赛题/`：赛题、数据与论文格式要求。
-- `process/`：建模分析代码、模型结果与中间结果表。
-- `chart_code/`：论文图表生成代码。
-- `charts/`：由作图代码生成的 SVG 图表。
-- `tex/`：LaTeX 源文件、论文 PDF 与图表 PDF。
-- `葛旭东_李悦昊_黎子豪.pdf`：最终提交版论文 PDF。
-- `notes.md`、`task_plan.md`：过程记录与任务规划。
+- `2026年兰州大学数学建模竞赛赛题/`: problem statement, dataset, and paper formatting requirements.
+- `process/`: modeling and analysis code, model outputs, and result tables.
+- `chart_code/`: plotting scripts used to generate paper figures.
+- `charts/`: generated SVG figures.
+- `latex & pdf/`: LaTeX source files, figure PDFs, and paper PDFs.
 
-## 主要入口
+## Main Files
 
-- 分析代码：`process/final_stepwise_code.py`
-- 作图入口：`chart_code/chart_*.py`
-- 论文源码：`tex/final_rewritten.tex`
-- 论文 PDF：`葛旭东_李悦昊_黎子豪.pdf`
+- Analysis code: `process/final_stepwise_code.py`
+- Plotting scripts: `chart_code/chart_*.py`
+- Paper source: `latex & pdf/final_rewritten.tex`
+- Final paper PDF: `latex & pdf/葛旭东_李悦昊_黎子豪.pdf`

@@ -14,8 +14,8 @@ temp/
 
 # Local references and old draft PDFs outside the minimal deliverable
 referencework/
-tex/4.49_final.pdf
-tex/8.28.pdf
+latex & pdf/4.49_final.pdf
+latex & pdf/8.28.pdf
 
 # LaTeX build artifacts
 *.aux

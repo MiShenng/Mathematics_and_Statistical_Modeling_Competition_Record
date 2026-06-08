@@ -1,6 +1,6 @@
-# 2026 April Mathematical Modeling Competition
+# 2026 Huazhong Cup Mathematical Modeling Competition
 
-This repository contains the materials for the April 2026 Mathematical Modeling Competition, including the problem statement, input data, analysis code, plotting code, generated figures, LaTeX source file, and final PDF.
+This folder contains the materials for the 2026 Huazhong Cup Mathematical Modeling Competition, including the problem statement, input data, analysis code, plotting code, generated figures, LaTeX source file, and final PDF.
 
 ## Structure
 

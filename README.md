@@ -1,25 +1,36 @@
-# Mathematics and Statistical Modeling Competition Record
+# Mathematics_and_Statistical_Modeling_Competition_Record
 
-This repository consolidates records from mathematical and statistical modeling competitions, including problem statements, datasets, analysis code, plotting code, generated figures, LaTeX source files, and final PDFs.
+A consolidated archive for mathematical and statistical modeling competitions. The repository keeps each competition as an independent project folder with its problem materials, datasets, modeling code, plotting code, figures, LaTeX source files, and final PDF.
 
-## Projects
+## Competition Records
 
-- `2026_June_Mathematical_Modeling_Competition/`: June 2026 Mathematical Modeling Competition.
-- `2026_April_National_Statistical_Modeling_Competition/`: April 2026 National Statistical Modeling Competition.
-- `2026_April_Mathematical_Modeling_Competition/`: April 2026 Mathematical Modeling Competition.
+| Folder | Competition | Contents |
+| --- | --- | --- |
+| `2026_Huazhong_Cup_Mathematical_Modeling_Competition/` | 2026 Huazhong Cup Mathematical Modeling Competition | Green logistics routing model, dispatching code, figures, LaTeX source, and final paper |
+| `2026_China_Statistical_Modeling_Competition/` | 2026 China Statistical Modeling Competition | Statistical modeling workflow, raw data, generated figures, LaTeX source, and final PDFs |
+| `2026_China_Mathematical_Modeling_Competition/` | 2026 China Mathematical Modeling Competition | Workpiece classification model, analysis code, chart scripts, LaTeX source, and final paper |
 
-## Standard Project Structure
+## Folder Convention
 
-Each project is organized with a clear local structure where applicable:
+Each project follows the same compact structure where applicable:
 
-- problem statement and attachments
-- `process/`: analysis and modeling code
-- `chart_code/`: plotting code
-- `charts/`: generated figures
-- `latex & pdf/`: LaTeX source files and paper PDFs
+```text
+project/
+├── problem statement and attachments
+├── process/        # modeling and analysis code
+├── chart_code/     # plotting scripts
+├── charts/         # generated figures
+└── latex & pdf/    # LaTeX source files and paper PDFs
+```
 
-## Original Repositories
+## Quick Navigation
 
-- https://github.com/MiShenng/2026_June_Mathematical_Modeling_Competition-
-- https://github.com/MiShenng/2026_Apri_National-Statistical-Modeling-Competition
-- https://github.com/MiShenng/2026_April_Mathematical_Modeling_Competition
+- Huazhong Cup paper: `2026_Huazhong_Cup_Mathematical_Modeling_Competition/latex & pdf/`
+- Statistical modeling paper: `2026_China_Statistical_Modeling_Competition/latex & pdf/`
+- Mathematical modeling paper: `2026_China_Mathematical_Modeling_Competition/latex & pdf/`
+
+## Notes
+
+- This repository is the merged record. The two older standalone repositories can be removed after confirming this archive contains everything needed.
+- The original June mathematical modeling repository is being reused as the consolidated repository.
+- Repository display name target: `Mathematics_and_Statistical_Modeling_Competition_Record`.

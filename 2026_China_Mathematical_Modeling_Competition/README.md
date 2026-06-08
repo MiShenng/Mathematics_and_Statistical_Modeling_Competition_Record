@@ -1,6 +1,6 @@
-# 2026 June Mathematical Modeling Competition
+# 2026 China Mathematical Modeling Competition
 
-This repository contains the materials for the June 2026 Mathematical Modeling Competition, including the problem statement, analysis code, plotting code, LaTeX source files, and final PDF.
+This folder contains the materials for the 2026 China Mathematical Modeling Competition, including the problem statement, analysis code, plotting code, LaTeX source files, and final PDF.
 
 ## Structure
 

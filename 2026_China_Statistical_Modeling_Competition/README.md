@@ -1,6 +1,6 @@
-# 2026 April National Statistical Modeling Competition
+# 2026 China Statistical Modeling Competition
 
-This repository contains the materials for the April 2026 National Statistical Modeling Competition, including the dataset, analysis code, generated figures, LaTeX source files, and final PDFs.
+This folder contains the materials for the 2026 China Statistical Modeling Competition, including the dataset, analysis code, generated figures, LaTeX source files, and final PDFs.
 
 ## Structure
 

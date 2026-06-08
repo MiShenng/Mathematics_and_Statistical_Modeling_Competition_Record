@@ -29,8 +29,3 @@ project/
 - Statistical modeling paper: `2026_China_Statistical_Modeling_Competition/latex & pdf/`
 - Mathematical modeling paper: `2026_China_Mathematical_Modeling_Competition/latex & pdf/`
 
-## Notes
-
-- This repository is the merged record. The two older standalone repositories can be removed after confirming this archive contains everything needed.
-- The original June mathematical modeling repository is being reused as the consolidated repository.
-- Repository display name target: `Mathematics_and_Statistical_Modeling_Competition_Record`.

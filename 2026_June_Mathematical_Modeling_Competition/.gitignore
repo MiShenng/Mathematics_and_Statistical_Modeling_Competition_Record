@@ -2,22 +2,20 @@
 .DS_Store
 
 # Python
+.venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
+process/outputs/
+temp/
 
 # Local agent/session files
 .claude/
 .Rhistory
 
-# Local leftovers from the pre-merge workspace
-/latex & pdf/
-/referencework/
-/charts/
-/chart_code/
-/process/
-/2026年兰州大学数学建模竞赛赛题/
+# Local references and old draft PDFs outside the minimal deliverable
+referencework/
+latex & pdf/4.49_final.pdf
+latex & pdf/8.28.pdf
 
 # LaTeX build artifacts
 *.aux

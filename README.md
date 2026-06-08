@@ -1,6 +1,6 @@
 # Mathematics_and_Statistical_Modeling_Competition_Record
 
-A consolidated archive for mathematical and statistical modeling competitions. The repository keeps each competition as an independent project folder with its problem materials, datasets, modeling code, plotting code, figures, LaTeX source files, and final PDF.
+Backup of the math and statistical modeling competitions I have participated in. The repository keeps each competition as an independent project folder with its problem materials, datasets, modeling code, plotting code, figures, LaTeX source files, and final PDF.
 
 ## Competition Records
 

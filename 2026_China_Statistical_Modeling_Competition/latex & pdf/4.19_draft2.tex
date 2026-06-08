@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{ctexart}
+\documentclass[a4paper,12pt,fontset=fandol]{ctexart}
 
 % ============ 页面与字体 ============
 \usepackage[top=2.54cm, bottom=2.54cm, left=3.17cm, right=3.17cm]{geometry}
@@ -47,9 +47,8 @@
 \usepackage{url}
 \usepackage[titles]{tocloft}   % 加 titles 选项，避免与 ctex 的章节命令冲突
 
-% 论文题目字体：使用稳定可用的宋体
-\setCJKfamilyfont{thesistitle}{STSong}
-\newcommand{\thesistitlefont}{\CJKfamily{thesistitle}\fontsize{16pt}{24pt}\selectfont}
+% 论文题目字体
+\newcommand{\thesistitlefont}{\songti\fontsize{16pt}{24pt}\selectfont}
 
 % ============ 章节编号 ============
 \renewcommand{\thesection}{\chinese{section}}
@@ -82,7 +81,7 @@
 \renewcommand{\cftsecpresnum}{第}
 \renewcommand{\cftsecaftersnum}{章}
 \renewcommand{\cftsecaftersnumb}{\quad}
-\setlength{\cftsecnumwidth}{2.5em}
+\setlength{\cftsecnumwidth}{3em}
 \renewcommand{\cftsecleader}{\normalfont\cftdotfill{\cftdotsep}}
 \setlength{\cftbeforesecskip}{6pt}
 
@@ -165,21 +164,13 @@
 
 \newpage
 % ==================== 目录 ====================
-\begin{center}
-{\heiti\zihao{4}目录}
-\end{center}
-\vspace{6pt}
 \begingroup
 \singlespacing
-\makeatletter
-\@starttoc{toc}
-\makeatother
+\tableofcontents
 \endgroup
 \newpage
 
 % ==================== 表格与插图清单 ====================
-\phantomsection
-\addcontentsline{toc}{section}{表格与插图清单}
 \begin{center}
 {\heiti\zihao{-3} 表格与插图清单}
 \end{center}
@@ -846,23 +837,4 @@ XGBoost搜索范围：$n\_\text{estimators}\in\{200,500\}$，$\text{learning\_ra
 
 五组$\rho$取值下前5名变量排名完全一致，Kendall协同系数$W>0.90$（$p<0.001$），确认因子筛选结论对$\rho$选择不敏感。
 
-% ==================== 致谢 ====================
-\newpage
-\phantomsection
-\addcontentsline{toc}{section}{致谢}
-\begin{center}
-  {\heiti\zihao{4} 致谢}
-\end{center}
-\vspace{0.5em}
-
-{\songti\zihao{-4}
-论文的完成离不开指导吴义东老师的细心指导，从论文的选题、构思到撰写和修改，给予了悉心的帮助和宝贵的建议。同时感谢团队成员的通力合作和学校提供的支持与资源。
-
-\begin{flushright}
-  2026\,年\,4\,月\,20\,日
-\end{flushright}
-}
-
 \end{document}
-
-
